@@ -1,0 +1,9 @@
+﻿  PPvIS_laba4.cpp
+C:\Users\Pasha\source\repos\PPvIS_laba4\PPvIS_laba4\PPvIS_laba4.cpp(171,1): warning C4267: return: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Users\Pasha\source\repos\PPvIS_laba4\PPvIS_laba4\PPvIS_laba4.cpp(170): message : во время компиляции функции-члена класс шаблон "short Graph<std::string>::countOfEdges(void)"
+C:\Users\Pasha\source\repos\PPvIS_laba4\PPvIS_laba4\PPvIS_laba4.cpp(379): message : выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::countOfEdges(void)"
+C:\Users\Pasha\source\repos\PPvIS_laba4\PPvIS_laba4\PPvIS_laba4.cpp(337): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>"
+C:\Users\Pasha\source\repos\PPvIS_laba4\PPvIS_laba4\PPvIS_laba4.cpp(168,1): warning C4267: return: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Users\Pasha\source\repos\PPvIS_laba4\PPvIS_laba4\PPvIS_laba4.cpp(167): message : во время компиляции функции-члена класс шаблон "short Graph<std::string>::countOfNodes(void)"
+C:\Users\Pasha\source\repos\PPvIS_laba4\PPvIS_laba4\PPvIS_laba4.cpp(379): message : выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::countOfNodes(void)"
+  PPvIS_laba4.vcxproj -> C:\Users\Pasha\source\repos\PPvIS_laba4\x64\Debug\PPvIS_laba4.exe
